@@ -1,5 +1,5 @@
 - 👋 Hi, I’m enslin
-- 👀 I’m interested in Websit development
+- 👀 I’m interested in Website development
 - 🌱 I’m currently learning Html and css
 - 💞️ I’m looking to collaborate later on but for now am here to learn
 - 📫 How to reach me pieterse.nsln@gmail.com
